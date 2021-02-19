@@ -1,1 +1,1 @@
-# django_exam
+# Django Exam
